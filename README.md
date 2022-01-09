@@ -1,15 +1,12 @@
 # Swift--Chat
-A realtime online chat website applicatoin 
 
+About This Application: In this day of age, the need for a multiplatform chat application is paramount for a standardized and accessible means of communication. Hence this web application is designed to provide users with access to a chatboard accessible with any modern day brower, for both mobile and PC. 
 
-Overview:
-This is a simple website applicatoin withbackend with python (via flask) and the front end with HTML, JQuery and CSS.
-This application also uses data base storing the chat messages using SQLAlchemy and I am using an API called pusher for the realtime chat functionality
+Backend web technologies used: Python Flask, SQLite
+Frontend web technologies used: HTML, CSS, jQuery, and JavaScript
 
-V1 Release Notes (June 18, 2021)
-- Realtime chat functioanltiy 
-- Ability to delete database 
-- Created necessary files for online deployment on Heroku (requirements.txt, Procfile)
+The back-end functionalities of this website include the usage of WebSockets, REST API's and a database allowing users to save and retrieve chat messages while front-end features allow for a dynamic user-interface to display messages
 
-
+A container-based cloud platform (Heroku) to deploy this application
+Website Link: https://swift--chat.herokuapp.com/
 

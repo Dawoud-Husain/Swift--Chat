@@ -1,6 +1,6 @@
 # Swift--Chat
 
-About This Application: In this day of age, the need for a multiplatform chat application is paramount for a standardized and accessible means of communication. Hence this web application is designed to provide users with access to a chatboard accessible with any modern day brower, for both mobile and PC. 
+In this day of age, the need for a multiplatform chat application is paramount for a standardized and accessible means of communication. Hence this web application is designed to provide users with access to a chatboard accessible with any modern day brower, for both mobile and PC. 
 
 Backend web technologies used: Python Flask, SQLite
 Frontend web technologies used: HTML, CSS, jQuery, and JavaScript
